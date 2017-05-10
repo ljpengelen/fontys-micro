@@ -48,6 +48,7 @@ Given a valid account identifier, you can update an account as follows.
 
 ```
 PUT http://localhost:8080/account/1
+
 {
   "username": "Jane Doe",
   "password": "test1234",
