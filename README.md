@@ -1,6 +1,6 @@
-# Java Micro Frameworks Workshop for Fontys
+# Java Micro Frameworks Workshop
 
-This small Spring Boot application can be used as inspiration for the apps you'll build during the Java micro frameworks workshop for Fontys.
+This small Spring Boot application can be used as inspiration for the apps you'll build during the Java micro frameworks workshop.
 We intentionally used a different framework for this app,
 to try to prevent steering your implementation in a certain direction as much as possible.
 This app contains some database interaction and uses an encryption library that might be useful as a basis for your app.
